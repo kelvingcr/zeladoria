@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428783439399",
+    "project_id": "zeladoria-aw0k5z",
+    "storage_bucket": "zeladoria-aw0k5z.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428783439399:android:cf358d24f76316a1f84802",
+        "android_client_info": {
+          "package_name": "dev.kelvincosta.appzeladoria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJVXf3hOo0QKSgOu7Dxneu7K7Oc9SVC7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
